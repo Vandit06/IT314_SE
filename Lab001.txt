@@ -1,0 +1,25 @@
+(a) Waterfall: Because our needs are well-defined and the Waterfall approach is appropriate for small projects, we can for data processing project.
+
+(b) Prototyping: Client engagement (feedback), which is crucial because we need to make our solution user-friendly. Therefore, we can use the prototyping model or the evolutionary model.
+
+(c) Incremental: We can use the incremental model since we need numerous features that can be implemented utilizing fundamental characteristics. We can implement the fundamental features first, and then add extra features that rely on them.
+
+(d) Agile: We can definitely employ the Agile model in this situation because the requirements are changing quickly and there is an internal development team available for every aspect of the project.
+
+(e) Agile: We can definitely employ the Agile mothod because we need to provide updates to our website frequently.
+
+(f) Spiral:The Spiral model will be suitable for this project, which places a strong emphasis on risk assessment.
+
+(g) Evolutionary: Virtual reality systems require continuous improvement and adaptation to changing maintenance requirements; for this project, the evolutionary model will work good.
+
+(h) Incremental: The incremental model is the most suitable option for us to adopt because we need to replace an existing system.
+
+(i) Incremental: The incremental model will be a suitable choice because it allows for regular feedback from stakeholders and is appropriate given that we require an interactive system.
+
+(j) Spiral: The main component of our project that needs to be taken into account is risk assessment, which is the focus of the Spiral model.
+
+(k) Agile: In situations like these, where we must react quickly to shifting requirements, the agile model is successful.
+
+(l) Spiral: The Spiral model can be used in this situation since it works best where potential risks can have serious consequences.
+
+(m) Waterfall: We can utilize the Waterfall approach for this project because there won't be any changes to the requirements, and it is ideal for projects with clear requirements and few potential changes.
